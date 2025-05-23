@@ -1,2 +1,3 @@
-# Air-Quality-Insights
+# AQI.DataAnalysis
+
 This project employs a data-driven methodology to analyse Delhi's Air Quality Index (AQI) using Python. In this project, time-series approaches have been employed to forecast air quality, and it’s effectiveness has been assessed using a variety of metrics. The dataset includes hourly AQI readings, pollutant concentrations (PM2.5, PM10, NO₂, CO, SO₂, and O₃), and timestamps. The project provides a comprehensive understanding of the dynamics of the city's air quality by combining a number of Python modules and tools for data collection, preprocessing, analysis, and visualisation.
